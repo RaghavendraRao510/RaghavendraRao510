@@ -204,43 +204,33 @@ Example:
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RaghavendraRao510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=RaghavendraRao510&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRao510&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaghavendraRao510&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRao510&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=RaghavendraRao510&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=RaghavendraRao510&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavendraRao510&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavendraRao510&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
