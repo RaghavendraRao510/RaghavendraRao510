@@ -1,108 +1,82 @@
-
-# Hi there! I'm **Nanuvala Raghavendra Rao** 👋
-
+# Hi there! I'm [Your Name] 👋
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&width=520&lines=AI+Engineer;Python+%7C+ML+%7C+GenAI+%7C+Power+BI;Open+to+Opportunities)
-
+![Typing SVG](https://readme-typingsvg.herokuapp.com?font=Flair&size=21&pause=1000&color=C2527A&width=435&li
+nes=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Work!)
 </div>
-
-<p align="center">
-  <a href="https://github.com/RaghavendraRao510">
-    <img src="https://img.shields.io/badge/GitHub-RaghavendraRao510-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/raghavendrarao7/">
-    <img src="https://img.shields.io/badge/LinkedIn-RaghavendraRao7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hanumakonda-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
-
 ---
-
 ## 🚀 About Me
-
-I am **Nanuvala Raghavendra Rao**, a second-year **Diploma in AI & ML** student and an aspiring **AI Engineer** from **Hanumakonda, India**. I am building a strong foundation in Python, ML, GenAI, Deep Learning, Computer Vision, NLP, SQL, and Power BI.
-
-I enjoy turning data and ideas into intelligent solutions, and I am currently focused on learning, building, and improving through real projects.
-
+🎓 B.Tech CSE Graduate — [Your College Name]
+💼Aspiring Data Analyst | Open to Work
+📍 [Your City], India
+📧 [your email]
+🌐 [your LinkedIn URL]
+> *"Data is the new oil — and I know how to refine it!"*
 ---
-
 ## 🛠️ Skills
-
-### Languages & Core Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### AI / ML Domains
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenAI-111827?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-0F766E?style=for-the-badge)
-![Computer%20Vision](https://img.shields.io/badge/Computer%20Vision-DB2777?style=for-the-badge)
-
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-thebadge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-thebadge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-thebadge&logo=java&logoColor=white)
+**Tools & Technologies**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-thebadge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-thebadge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-thebadge&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-thebadge&logo=github&logoColor=white)
+**Libraries**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-thebadge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-thebadge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ---
-
 ## 📊 Projects
-
-### 🔹 Project 1 — AI Assistant / Chatbot
-> A smart assistant built with modern AI tools to answer questions and automate simple tasks.
-- 🛠️ **Tools:** Python, GenAI, NLP
-- 📌 **What I did:** Designed prompts, handled inputs, and improved response quality.
-- 💡 **Key Finding:** Clear prompting and good input handling improve user experience.
-- 🔗 **[View Project](#)**
-
-### 🔹 Project 2 — ML Prediction Model
-> A machine learning project that predicts outcomes using structured data.
-- 🛠️ **Tools:** Python, Pandas, NumPy, ML
-- 📌 **What I did:** Cleaned data, trained a model, and checked performance.
-- 💡 **Key Finding:** Data quality has a major impact on model accuracy.
-- 🔗 **[View Project](#)**
-
-### 🔹 Project 3 — Power BI Dashboard
-> An interactive dashboard for visualizing trends and key metrics.
-- 🛠️ **Tools:** Power BI, SQL, Excel
-- 📌 **What I did:** Built dashboards and organized insights into visuals.
-- 💡 **Key Finding:** Well-designed dashboards make complex data easy to understand.
-- 🔗 **[View Project](#)**
-
+### 🔹 Project 1 — [Project Name]
+> [One line description of what it does]
+- 🛠️ **Tools:** Python, Pandas, Matplotlib
+- 📌 **What I did:** [Brief explanation]
+- 💡 **Key Finding:** [Main insight or result]
+- 🔗 **[View Project](your-github-link)**
 ---
-
-## 🎓 Education
-
-- **Diploma in AI & ML** — 2nd Year  
-  **Expected Graduation:** 2028
-
+### 🔹 Project 2 — [Project Name]
+> [One line description]
+- 🛠️ **Tools:** SQL, Power BI
+- 📌 **What I did:** [Brief explanation]
+- 💡 **Key Finding:** [Main insight]
+- 🔗 **[View Project](your-github-link)**
 ---
-
+### 🔹 Project 3 — [Project Name]
+> [One line description]
+- 🛠️ **Tools:** Excel, Tableau
+- 📌 **What I did:** [Brief explanation]
+- 💡 **Key Finding:** [Main insight]
+- 🔗 **[View Project](your-github-link)**
+---
+## 🎓 Certifications
+| Certificate | Platform | Status |
+|---|---|---|
+| Google Data Analytics | Coursera | ✅ Completed |
+| IBM Data Science | Coursera | ✅ Completed |
+| Microsoft Power BI | Microsoft Learn | ✅ Completed |
+| SQL for Data Science | Coursera | ✅ Completed |
+---
 ## 📈 GitHub Stats
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghavendraRao510&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRao510&layout=compact&theme=radical&hide_border=true)
-
+![GitHub Stats](https://github-readmestats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radic
+al&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=YOURUSERNAME&layout=compact&theme=radical&hide_border
+=true)
+![GitHub Streak](https://github-readme-streakstats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=true)
 </div>
-
 ---
-
 ## 🔗 Connect With Me
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RaghavendraRao7-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendrarao7/)
-[![GitHub](https://img.shields.io/badge/GitHub-RaghavendraRao510-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaghavendraRao510)
-[![Email](https://img.shields.io/badge/Email-nanuvalaraghu200%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanuvalaraghu200@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-thebadge&logo=instagram&logoColor=white)](https://instagram.com/learn_with_shi)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:heyitshi09@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-thebadge&logo=github&logoColor=white)](your-portfolio-link)
 </div>
-
 ---
-
-<p align="center">
-  ✨ Building projects in AI, ML, and Data every day.
-</p>
+<div align="center">
+![Visitor Count](https://visitorbadge.glitch.me/badge?page_id=YOURUSERNAME.YOURUSERNAME)
+⭐ **If you find my projects helpful — give them a star!** ⭐
+*"Every expert was once a beginner!"* 💪
+</div>
