@@ -244,15 +244,17 @@ Example:
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaghavendraRao510/RaghavendraRao510/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaghavendraRao510/RaghavendraRao510/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaghavendraRao510/RaghavendraRao510/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/RaghavendraRao510/RaghavendraRao510/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-
-> The contribution snake requires a GitHub Actions workflow before it will appear.
 
 ---
 
