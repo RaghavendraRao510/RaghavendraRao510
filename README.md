@@ -204,13 +204,21 @@ Example:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaghavendraRao510&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<a href="https://github.com/RaghavendraRao510?tab=repositories">
+  <img src="https://img.shields.io/badge/Public_Repositories-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavendraRao510&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<a href="https://github.com/RaghavendraRao510?tab=followers">
+  <img src="https://img.shields.io/github/followers/RaghavendraRao510?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/RaghavendraRao510">
+  <img src="https://komarev.com/ghpvc/?username=RaghavendraRao510&style=for-the-badge&label=PROFILE+VIEWS" />
+</a>
 
 </div>
 
